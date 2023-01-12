@@ -5,7 +5,7 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, (C++, C#)</code>
+<code>🧑‍💻 Languages: C#, C++, JavaScript</code>
 <code>📦 Tech stack: ...</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@llumiss](https://telegram.me/llumiss)</code>
