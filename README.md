@@ -5,8 +5,8 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: C#, C++, JavaScript</code>
-<code>📦 Tech stack: ...</code>
+<code>🧑‍💻 Languages: Java, C#, C++, JavaScript</code>
+<code>📦 Tech stack: Spring, PostgreSQL, Node.js, .NET</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@llumiss](https://telegram.me/llumiss)</code>
 <code>📫 [vasa16671@gmail.com](mailto:vasa16671@gmail.com)</code>
